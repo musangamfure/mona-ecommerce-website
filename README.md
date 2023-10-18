@@ -69,7 +69,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://musangamfure.github.io/capstone-project-module1/)
+- [Live Demo Link](https://musangamfure.github.io/mona-ecommerce-website/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
