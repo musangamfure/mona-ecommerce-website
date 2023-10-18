@@ -1,4 +1,3 @@
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -28,6 +27,10 @@
 
 > This is an modern ecommerce website template which is compatible and responsive to all devise screens built by HTML, CSS and JAVASCRIPT.👌
 
+### Demo
+
+![Mobile and Desktop Demo](./demo-image/demo.png 'Mobile and Desktop Demo')
+
 ## 🛠️ Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -45,7 +48,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Modern eCommerce or Online stores 
+- Modern eCommerce or Online stores
 - Mobile first development
 - Responsiveness and flexibility for any screen size
 - Apply JavaScript best practices and language style guides in code.👌
@@ -59,8 +62,6 @@
 <!-- LIVE DEMO -->
 
 ## 🤯 Walk through video <a name="walk-through"></a>
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
